@@ -209,7 +209,7 @@ body {
         font-size: 30px;
     }
     main h2{
-        font-size: 22px;
+        font-size: 40px;
     }
     main p{
         font-size: 15px;
@@ -245,8 +245,8 @@ body {
         font-size: 17px;
     }
     .galeria img{
-        margin: 20px;
-        width: 290px;
+        margin: 15px;
+        width: 300px;
     }
     .bloco{
         display: flex;
